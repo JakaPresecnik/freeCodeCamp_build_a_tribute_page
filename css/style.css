@@ -1,0 +1,16 @@
+body {
+  margin: 10px;
+}
+
+figcaption {
+  padding:10px;
+}
+
+.footer {
+  border-top: 1px solid #dcdcdc;
+  padding-top: 20px;
+}
+.timeline {
+  max-width: 750px;
+  margin: 0 auto;
+}
